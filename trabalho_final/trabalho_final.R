@@ -1,5 +1,5 @@
 
-# Guilherme Ricci, Mathias Petry, Pedro Cabral, Pedro Augusto
+# Guilherme Ricci, Mathias Petry, Pedro Cabral, Pedro Araujo
 
 ""
   # parte do SCRIPT PARA ANALISE DAS VARIAVEIS IPs
